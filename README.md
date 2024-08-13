@@ -30,7 +30,7 @@ This repository contains a Python-based tool that checks the strength of a passw
    cd PRODIGY_CS_01
 3. **Run The Script**:
   ```bash
-python password_checker.py
+python password.py
 
    
 
